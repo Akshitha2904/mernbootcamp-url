@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Your App Name
+            mernklh url shortener
           </Title>
 
           <Text
